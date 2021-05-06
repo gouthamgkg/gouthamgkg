@@ -1,3 +1,4 @@
+<div align="center">
 <center>
 <h1>Hi, I am Gouthaman K G <img  src="https://media.tenor.com/images/60d90e8cdd6021fdf138453894aec976/tenor.gif" width="50" height="50" />
 </center>
@@ -31,3 +32,4 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
   <img src="https://komarev.com/ghpvc/?username=gouthamgkg&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
         width="130" />
  </center>
+ </div>
