@@ -25,8 +25,11 @@ src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=inst
  <center>
  <img height="160" alt="Gouthaman's Github Stats"
                     src="https://github-readme-stats.vercel.app/api?username=gouthamgkg&show_icons=true&hide_border=true&theme=dark&count_private=true" />
+ <p> &nbsp; </p>
+  <p>
                 <img alt="Gouthaman's Github Stats" height="160"
                     src="https://github-readme-stats.vercel.app/api/top-langs/?username=gouthamgkg&hide=assembly&layout=compact&theme=dark" />
+  </p>
  </center>
  <center>
   <img src="https://komarev.com/ghpvc/?username=gouthamgkg&color=brightgreen&style=flat-square&label=PROFILE+VIEWS +"
